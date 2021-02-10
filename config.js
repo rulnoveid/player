@@ -12,7 +12,7 @@ var settings = {
     'radio_name': 'Brasil Hits',
 
     // URL of streaming without / on the final, eg: http://streaming.com:8080
-    'url_streaming': 'http://stream.radbdg.net:8001/reks1037fm.mp3',
+    'url_streaming': 'http://stream.radbdg.net:8001/reks1037fm.mp3.m3u',
 
     // When choosing icecast, make sure the file 'player.log' in the document root is writeable.
     // Choose between 'shoutcast' or 'icecast'
